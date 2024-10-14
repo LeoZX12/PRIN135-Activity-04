@@ -1,0 +1,195 @@
+
+  
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.container {
+    padding: 10px 0;
+}
+
+.marker {
+    width: 200px;
+    height: 25px;
+    margin: 10px auto;
+}
+
+.cap {
+    width: 60px;
+    height: 25px;
+}
+
+.sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-left: 10px double rgba(0, 0, 0, .75);
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    padding-left: 170px;
+    transform: translate(-48%);
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    white-space: nowrap;
+}
+
+
+
+.red .text {
+    padding-left: 155px;
+}
+
+.orange .text {
+    padding-left: 155px;
+}
+
+.yellow .text {
+    padding-left: 155px;
+}
+
+.green .text {
+    padding-left: 155px;
+}
+
+.blue .text {
+    padding-left: 155px;
+}
+
+.indigo .text {
+    padding-left: 155px;
+}
+
+.violet .text {
+    padding-left: 155px;
+}
+
+.scarlet .text {
+    padding-left: 155px;
+}
+
+.bronze .text {
+    padding-left: 155px;
+}
+
+.lemon .text {
+    padding-left: 155px;
+}
+.neon-green .text {
+    padding-left: 130px;
+}
+
+.gigachad .text {
+    padding-left: 145px;
+}
+
+.peach .text {
+    padding-left: 160px;
+}
+
+.turquoise .text {
+    padding-left: 135px;
+}
+
+.magenta .text {
+    padding-left: 135px;
+}
+
+.midnight .text {
+    padding-left: 135px;
+}
+
+
+
+
+
+
+
+
+.cap, .sleeve {
+    display: inline-block;
+}
+
+.red {
+    background-color: rgb(255, 0, 0);
+    box-shadow: 0px 0px 20px 0 red;
+}
+
+.orange {
+    background-color: rgb(255, 102, 0);
+    box-shadow: 0px 0px 20px 0 rgb(255, 140, 0);
+  }
+  
+.yellow {
+    background-color: rgb(255, 238, 0);
+    box-shadow: 0px 0px 20px 0 rgb(255, 221, 0);
+}
+
+.green {
+    background-color: #02921c;
+    box-shadow: 0px 0px 20px 0 rgb(0, 253, 38);
+}
+
+.blue {
+    background-color: #0055ff;
+    box-shadow: 0px 0px 20px 0 #0026ff;
+}
+
+.indigo {
+    background-color: rgb(64, 0, 255);
+    box-shadow: 0px 0px 20px 0 rgb(55, 0, 255);
+}
+
+.violet {
+    background-color: rgb(106, 0, 255);
+    box-shadow: 0px 0px 20px 0 rgb(115, 0, 255);
+}
+
+.scarlet {
+    background-color: #ff0011;
+    box-shadow: 0px 0px 20px 0 #ff004c;
+}
+
+.bronze {
+    background-color: rgb(203, 90, 20);
+    box-shadow: 0px 0px 20px 0 rgb(152, 69, 0);
+}
+
+.lemon {
+    background-color: rgb(255, 255, 0);
+    box-shadow: 0px 0px 20px 0 rgb(248, 255, 32);
+}
+
+.neon-green {
+    background-color: rgb(21, 255, 0);
+    box-shadow: 0px 0px 20px 0 rgb(0, 255, 26);
+}
+
+.gigachad {
+    background-color: #5a5a5a;
+    box-shadow: 0px 0px 20px 0 #3f3f3f;
+}
+
+.peach {
+    background-color: #FFCBA4;
+    box-shadow: 0px 0px 20px 0 #FFCBA4;
+}
+
+.turquoise {
+    background-color: rgb(0, 255, 255);
+    box-shadow: 0px 0px 20px 0 rgb(0, 255, 255);
+}
+
+.magenta {
+    background-color: #6d0024;
+    box-shadow: 0px 0px 20px 0 #650025;
+}
+
+.midnight {
+    background-color: #100e16;
+    box-shadow: 0px 0px 20px 0 #0f0e18;
+}
